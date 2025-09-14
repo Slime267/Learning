@@ -30,6 +30,7 @@
 ### 更新日志
 
 - **2025/9/13** 新增了笔记*00_How to use markdown*、_README_
+- **2025/9/14** 新增了笔记*The_Geometric_Representation_of_Complex*
 
 ## 关于我
 
