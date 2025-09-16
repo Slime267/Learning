@@ -10,7 +10,8 @@ $$x = Re ( z ) ,y = Im ( z )$$
 
 - $x = 0,y \neq 0$ 时， $z = iy$ 为纯虚数； $y = 0$ 时， $z = x + i0$ 为实数
 - 两复数相等的充要条件是**它们的实部和虚部分别相等**； $z = 0$， 当且仅当它的实部和虚部**均为 0**
-- 复数**无法比较大小**
+- 复数**无法比较大小**  
+  实数使用数轴即可表示，复数需要使用[复平面](/01_Courses/01_Engineering_Mathematics/01_Complex_and_Complex_Function/1.2_The_Geometric_Representation_of_Complex/Notes.md#1-复平面)。平面内向量长度是复数的模，而非复数的大小，因此复数只能比较模的大小。
 
 ## 2 复数的运算
 

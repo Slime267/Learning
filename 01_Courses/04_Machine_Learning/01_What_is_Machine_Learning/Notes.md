@@ -3,6 +3,8 @@
 ## 1 机器学习关键要素
 
 > **数据 模型 策略 算法**
+>
+> 训练模型就是指将**数据**作为**模型**的输入，利用**算法**求出使**策略**最优（即损失函数最小）的模型参数
 
 ### 1.1 数据
 
@@ -11,6 +13,7 @@
 - 样例 = 实例 + 标记
 - 假设：所有实例**独立同分布**
 - 数据 = 训练集 + 测试集
+- [数据在数据结构里的定义](/01_Courses/02_Data_Structure_and_Algorithm/01_What_is_Data_Structure/Notes.md#2-基本概念及术语)
 
 ### 1.2 模型
 
@@ -18,12 +21,12 @@
 
 - 概率/非概率
 - 模型复杂度
-  - 过大：**过拟合**
-  - 过小：**欠拟合**
+  - 过大：[**过拟合**](/01_Courses/04_Machine_Learning/02_Model_Evaluation_and_Selection/Notes.md#12-拟合)
+  - 过小：[**欠拟合**](/01_Courses/04_Machine_Learning/02_Model_Evaluation_and_Selection/Notes.md#12-拟合)
 
 ### 1.3 策略
 
-> **损失函数**
+> **损失函数**（即[误差](/01_Courses/04_Machine_Learning/02_Model_Evaluation_and_Selection/Notes.md#11-误差)）
 
 - 类别：
   - 0 - 1 损失函数——**分类**
